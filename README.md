@@ -3,7 +3,7 @@ This is totally my first website.
 
 >Stumbling and crawling.
 
->Around in the some space.
+>Around in some space.
 
 >Not knowing a question,
 
