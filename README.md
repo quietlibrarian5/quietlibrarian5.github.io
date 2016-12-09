@@ -10,3 +10,5 @@ This is totally my first website.
 >For the answer in hand.
 
 ![MQ Library](https://www.alia.org.au/sites/default/files/aflpics/MQ%20Uni.jpg)
+
+In good company with my data nerd buds. :)
